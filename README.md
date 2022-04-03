@@ -1,2 +1,2 @@
-# julius_motivacional-
-Brincando um pouco com html e css pela primeira vez
+# julius_motivacional
+Não se assuste, só fui brincar um pouco com html e dar um pouco de risada fuçando nos comandos pela primeira vez.
